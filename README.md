@@ -1,5 +1,6 @@
 # AngR
 # Synopsis 
+We propose to create a crime-tracker/record database. Where the users who are senior citizens will be able to report the crimes.
 AngR lets you build encapsulated, reusable elements that work just like standard HTML elements, to use in building web applications. The user could use the classes as it is in the code and elements would be automatically designed according to the class used. So using this library the user would get rid of lot code used for designing.
 # Code Example
 <!-- AngR -->
