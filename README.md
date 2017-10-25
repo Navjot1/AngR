@@ -1,14 +1,7 @@
 # AngR
 # Synopsis 
 We propose to create a crime-tracker/record database. Where the users who are senior citizens will be able to report the crimes.
-AngR lets you build encapsulated, reusable elements that work just like standard HTML elements, to use in building web applications. The user could use the classes as it is in the code and elements would be automatically designed according to the class used. So using this library the user would get rid of lot code used for designing.
-# Code Example
-<!-- AngR -->
-<script src="webAngRjs/webAngR-lite.js"></script>
+It would contain detail records of criminals, FIR records, police staff details. It contains several roles and each role is provided with a service and data's that can be accessible from anywhere by looging in. User can login through site and can access the service offered b admin. The modules include Admin module, DIG module, Inspector module, Sub Inspector module and Constable module.
+Admin would be able to create and manage headquarters, branch and staff details.He can provide username, password and access level to users. In addition to the functionality related the role, mail service is also provided for the communication between the staff.
 # Motivation
-To help save users time in making useful applications and at the same time making them attractive with use of AngR libray tools.It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only.
-# Installation
-The user needs to download the AngR library from github url and then give location of the required files in src and href as mentioned.
-<script src="webAngRjs/webAngR-lite.js"></script>
-# Tests	
-The code accuracy could be using any editor like notepad and run the file using any browser like Chrome, Firefox etc.
+To reduce paper work and save users time wasted in searching the previous records. Any record could be edited and searched.
